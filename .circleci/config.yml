@@ -14,8 +14,6 @@ jobs:
          root: ./
          paths:
            - target/
-      
-
       # build and push Docker image
       - run: |
           TAG=3.0
