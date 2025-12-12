@@ -14,8 +14,7 @@ jobs:
          root: ./
          paths:
            - target/
-      - setup_remote_docker:
-          version: 29.0.1
+      
 
       # build and push Docker image
       - run: |
