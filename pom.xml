@@ -15,7 +15,7 @@
 	<name>gitops-demo</name>
 	<description>A Demo Project for LinkedIn Learning</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>21</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
